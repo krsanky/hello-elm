@@ -1,3 +1,8 @@
-elm reactor 
+elm reactor
 (goto http://127.0.0.1:8000)
 
+http://www.elm-tutorial.org/en/01-foundations/02-functions.html
+
+
+elm package install elm-lang/mouse
+elm package install elm-lang/keyboard
