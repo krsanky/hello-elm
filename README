@@ -6,3 +6,5 @@ http://www.elm-tutorial.org/en/01-foundations/02-functions.html
 
 elm package install elm-lang/mouse
 elm package install elm-lang/keyboard
+deleting elm-stuff generated folder helped resolve issue with stale compile like problem.
+elm package install elm-lang/svg
