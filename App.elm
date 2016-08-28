@@ -2,6 +2,7 @@ module Main exposing (..)
 
 import Html exposing (Html)
 import Html.App
+
 import Widget
 import Widget2
 import Board
